@@ -1,0 +1,496 @@
+@charset "UTF-8";@media screen and (orientation: landscape) {
+    .loadingPage {
+        width:100%
+    }
+
+    .loadingPage .loadingPage-w {
+        width: 10rem;
+        margin: 0 auto
+    }
+
+    .loadingPage .loadingPage-content {
+        width: 100%;
+        background-image: url("../assets/bg-CENV0xBY.png");
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download {
+        width: 85%;
+        height: .92593rem;
+        background-image: url("../assets/footerFixed-D_rRekoo.png");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: fixed;
+        bottom: .09259rem;
+        left: 50%;
+        margin-left: -42.5%;
+        z-index: 999
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        -ms-flex-pack: distribute;
+        justify-content: space-around;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container img {
+        width: 100%;
+        height: auto;
+        vertical-align: middle
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container .loadingPage-download-left {
+        width: 25%
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container .loadingPage-download-right {
+        width: 30%
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title {
+        width: 100%;
+        background-image: url("../assets/top-bg-Bemc60qW.png");
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top {
+        width: 100%;
+        height: 1.12963rem
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 0 2.59259rem 0 .18519rem;
+        height: .81481rem;
+        background-color: #be163de6!important
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best .loadingPage-title-top-left {
+        width: .64815rem;
+        height: .64815rem
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best .loadingPage-title-top-left img {
+        width: 100%;
+        height: .64815rem
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best .loadingPage-title-top-right {
+        font-size: .27778rem;
+        font-weight: 500;
+        color: #fff;
+        text-shadow: -.01852rem -.01852rem 0 #64002a,.01852rem -.01852rem 0 #64002a,-.01852rem .01852rem 0 #64002a,.01852rem .01852rem 0 #64002a
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-container {
+        width: 100%;
+        text-align: center
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-container img {
+        width: 4.84259rem;
+        display: inline-block
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-font {
+        padding-bottom: 1.66667rem;
+        z-index: 99
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-font img {
+        width: 100%;
+        margin-top: 2.24074rem
+    }
+
+    .loadingPage .loadingPage-content .woman {
+        width: 100%;
+        margin-top: -1.85185rem;
+        z-index: 9
+    }
+
+    .loadingPage .loadingPage-content .woman img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .banner-wrapper-leftbtn {
+        width: 1.40741rem
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .carousel {
+        width: 10.40741rem;
+        height: 5.35185rem;
+        background-image: url("../assets/carousel-BDOtwTyE.png");
+        background-repeat: no-repeat;
+        background-size: contain
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .carousel img {
+        margin-top: 1.48148rem
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .banner-wrapper-righttbtn {
+        width: 1.40741rem
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap1 {
+        text-align: center;
+        margin-top: 1.2037rem
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap1 .btn-get-it-now1 {
+        width: 5.07407rem;
+        display: inline-block
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap1 .btn-get-it-now1 img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap {
+        text-align: center
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap .btn-get-it-now {
+        width: 5.07407rem;
+        display: inline-block
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap .btn-get-it-now img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .trophy-wrap {
+        text-align: center;
+        margin-top: .92593rem
+    }
+
+    .loadingPage .loadingPage-content .trophy-wrap .trophy {
+        width: 100%;
+        display: inline-block;
+        position: relative
+    }
+
+    .loadingPage .loadingPage-content .trophy-wrap .trophy img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .last2 {
+        width: 100%;
+        z-index: 99;
+        position: relative
+    }
+
+    .loadingPage .loadingPage-content .last2 img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .last {
+        padding-bottom: 2.23148rem;
+        width: 100%;
+        margin-top: -3.7037rem
+    }
+
+    .loadingPage .loadingPage-content .last img {
+        width: 100%
+    }
+
+    .loadingPage .slider {
+        width: .74074rem;
+        position: fixed;
+        right: .09259rem;
+        bottom: .09259rem;
+        background: #ffffff4d;
+        border-radius: .18519rem;
+        text-align: center;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        z-index: 9999
+    }
+}
+
+@media screen and (orientation: portrait) {
+    .loadingPage {
+        width:100%
+    }
+
+    .loadingPage .loadingPage-w {
+        width: 10rem;
+        margin: 0 auto
+    }
+
+    .loadingPage .loadingPage-content {
+        width: 100%;
+        background-image: url("../assets/bg-CENV0xBY.png");
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download {
+        width: 100%;
+        height: 2.13889rem;
+        background-image: url("../assets/footerFixed-D_rRekoo.png");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: fixed;
+        bottom: .09259rem;
+        left: 0;
+        z-index: 11111111111111112
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        -ms-flex-pack: distribute;
+        justify-content: space-around;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container img {
+        width: 100%;
+        height: auto;
+        vertical-align: middle
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container .loadingPage-download-left {
+        width: 30%
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-download .loadingPage-download-container .loadingPage-download-right {
+        width: 38%
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title {
+        width: 100%;
+        background-image: url("../assets/top-bg-Bemc60qW.png");
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top {
+        width: 100%;
+        height: 1.12963rem
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best {
+      
+        display: flex;
+        -ms-flex-pack: distribute;
+        justify-content: space-around;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        height: 1.27778rem;
+        width: auto;
+        background-color: #be163de6
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best .loadingPage-title-top-left {
+        width: .92593rem;
+        height: auto
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best .loadingPage-title-top-left img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-top .loadingPage-title-top-best .loadingPage-title-top-right {
+        font-size: .46296rem;
+        font-weight: 500;
+        color: #fff;
+        text-shadow: -.01852rem -.01852rem 0 #64002a,.01852rem -.01852rem 0 #64002a,-.01852rem .01852rem 0 #64002a,.01852rem .01852rem 0 #64002a
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-container {
+        width: 100%;
+        text-align: center
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-container img {
+        width: 4.84259rem;
+        display: inline-block
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-font {
+        padding-bottom: 1.66667rem
+    }
+
+    .loadingPage .loadingPage-content .loadingPage-title .loadingPage-title-font img {
+        width: 100%;
+        margin-top: 2.24074rem
+    }
+
+    .loadingPage .loadingPage-content .woman {
+        width: 100%;
+        margin-top: -1.85185rem
+    }
+
+    .loadingPage .loadingPage-content .woman img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .banner-wrapper-leftbtn {
+        width: 1.40741rem
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .carousel {
+        width: 10.40741rem;
+        height: 5.35185rem;
+        background-image: url("../assets/carousel-BDOtwTyE.png");
+        background-repeat: no-repeat;
+        background-size: contain
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .carousel img {
+        margin-top: 1.48148rem
+    }
+
+    .loadingPage .loadingPage-content .banner-wrapper .banner-wrapper-righttbtn {
+        width: 1.40741rem
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap1 {
+        text-align: center;
+        margin-top: 1.2037rem
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap1 .btn-get-it-now1 {
+        width: 5.07407rem;
+        display: inline-block
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap1 .btn-get-it-now1 img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap {
+        text-align: center
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap .btn-get-it-now {
+        width: 5.07407rem;
+        display: inline-block
+    }
+
+    .loadingPage .loadingPage-content .btn-get-it-now-wrap .btn-get-it-now img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .trophy-wrap {
+        text-align: center;
+        margin-top: .92593rem
+    }
+
+    .loadingPage .loadingPage-content .trophy-wrap .trophy {
+        width: 100%;
+        display: inline-block;
+        position: relative
+    }
+
+    .loadingPage .loadingPage-content .trophy-wrap .trophy img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .last2 {
+        width: 100%;
+        z-index: 999;
+        position: relative
+    }
+
+    .loadingPage .loadingPage-content .last2 img {
+        width: 100%
+    }
+
+    .loadingPage .loadingPage-content .last {
+        padding-bottom: 2.23148rem;
+        width: 100%;
+        margin-top: -3.7037rem
+    }
+
+    .loadingPage .loadingPage-content .last img {
+        width: 100%
+    }
+
+    .loadingPage .slider {
+        width: 1.85185rem;
+        position: fixed;
+        right: 0;
+        bottom: 2.77778rem;
+        background: #ffffff4d;
+        border-radius: .37037rem;
+        text-align: center;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: .27778rem 0 0;
+        z-index: 9999
+    }
+}
+
+.swiper {
+    width: 5.92593rem;
+    margin-left: 1.0463rem;
+    margin-top: -.30093rem
+}
+
+.danmu {
+    width: 8.12037rem;
+    height: 2.77778rem;
+    position: absolute;
+    bottom: 0;
+    margin-left: .77778rem
+}
